@@ -1,5 +1,5 @@
 // Mis Gastos · Visual AI Lab — funciona sin conexión
-const CACHE = 'mis-gastos-v2';
+const CACHE = 'mis-gastos-v3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png', './icons/favicon-32.png'];
 
